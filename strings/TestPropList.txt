@@ -1,0 +1,8 @@
+#THIS IS A COMMENT
+#X::Y::TYPE::DATACONTENTS
+#0=Sign, 1=Test Building (1 in future may depends on datacontents), 2=bush (destructable test?), 3=Edge tree (1.5 tiles high)
+19::1::1::m
+18::7::0::There should be 2 signs in this area.
+20::7::2
+22::7::0::This is the second sign. There should also be a tree.
+44::8::0::To different area ->

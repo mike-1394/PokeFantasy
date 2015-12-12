@@ -1,0 +1,33 @@
+#Made with Jill Game WorldMaker (TM)!
+#0=IV
+#Flag: Modified? 0=false, 1=true
+010
+@
+BBBBBBBBBBBBBBBBBBBBBBB
+BfffBsssBrrrrrBsssBfffB
+BfffBsssBrrrrrBsssBfffB
+BfffBsssBrrrrrBsssBfffB
+BiiiiiiiiiiiiiiiiiiiiiB
+BiiiiiiiiiiiiiiiiiiiiiB
+BiiiiiiiiiiiiiiiiiiiiiB
+BiiiiiiiiiiiiiiiiiiiiiB
+BiiiiiiiiiiiiiiiiiiiiiB
+BiiiiiiiiiiiiiiiiiiiiiB
+BBBBBBBBBBBiBBBBBBBBBBB
+@
+2::1::0::Transporter 1
+5::1::2::
+6::1::0::Transporter 2
+7::1::2::
+15::1::2::
+16::1::0::Transporter 3
+17::1::2::
+20::1::0::Transporter 4
+@
+11::10::2::0::15::5
+6::2::4::4::9::8
+@
+16::2::5::8
+@
+~ 2 m
+~ 2 f

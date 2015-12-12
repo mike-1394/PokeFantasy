@@ -1,0 +1,90 @@
+#Made with Jill Game WorldMaker (TM)!
+#0=IV
+#Flag: Modified? 0=false, 1=true
+00
+@
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+GGGGGGBggggggggggggggggggggggggggggggggggB
+GGGGGGBggggggggggggggggggggggggggggggggggB
+GGGGGGBgggGGGGGgggtttttttttttttttttttttttt
+GGGGGGBgggGGGGGgggtttttttttttttttttttttttt
+GGGGGGBgggGGGGGgggtttttttttttttttttttttttt
+GGGGGGBgggGGDGGgggtttttttttttttttttttttttt
+GGGGGGBgggggggggggttttgggggggggggggggggggB
+GGGGGGBgggggggggggttttgggggggggggggggggggB
+GGGGGGBgggggggggggttttggggggggggggggBBBBBB
+GGGGGGBgggggggggggttttggggggggggggggBGGGGG
+GGGGGGBgggGGGGGgggttttgggGGGGGggggggBGGGGG
+GGGGGGBgggGGGGGgggttttgggGGGGGggggggBGGGGG
+GGGGGGBgggGGGGGgggttttgggGGGGGggggggBGGGGG
+GGGGGGBgggGGDGGgggttttgggGGDGGggggggBGGGGG
+GGGGGGBgggggggggggttttggggggggggggggBGGGGG
+GGGGGGBgggggggggggttttggggggggggggggBGGGGG
+GGGGGGBgggggggggggttttggggggggggggggBGGGGG
+GGGGGGBgggggggggggttttggggggggggggggBGGGGG
+GGGGGGBgggGGGGGgggttttgggGGGGGggggggBGGGGG
+GGGGGGBgggGGGGGgggttttgggGGGGGggggggBGGGGG
+GGGGGGBgggGGGGGgggttttgggGGGGGggggggBGGGGG
+GGGGGGBgggGGDGGgggttttgggGGDGGggggggBGGGGG
+GGGGGGBgggggggggggttttggggggggggggggBGGGGG
+GGGGGGBgggggggggggttttggggggggggggggBGGGGG
+GGGGGGBgggggggggggttttggggggggggggggBGGGGG
+GGGGGGBgggggggggggttttggggggggggggggBBBBBB
+GGGGGGBgggFFgFFgggtttttttttttttttttttttttt
+GGGGGGBgggFgggFgggtttttttttttttttttttttttt
+GGGGGGBgggFgggFgggtttttttttttttttttttttttt
+GGGGGGBgggFFFFFgggtttttttttttttttttttttttt
+GGGGGGBgggggggggggggggggggggggggggggBBBBBB
+GGGGGGBgggggggggggggggggggggggggggggBGGGGG
+GGGGGGBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+@
+35::7::0::Welcome to Mullville!
+36::7::2::
+37::7::2::
+38::7::2::
+39::7::2::
+40::7::2::
+14::11::1::ny
+15::11::0::Someone's house.
+35::12::0::Mullville Population: ~6?
+36::12::2::
+37::12::2::
+38::12::2::
+39::12::2::
+40::12::2::
+14::19::1::nt
+15::19::0::Someone else's house.
+24::19::0::Haiiii
+29::19::1::nw
+14::27::1::ng
+15::27::0::Yet another house.
+24::27::0::And another house.
+29::27::1::nr
+12::32::2::
+@
+41::8::1::0::1::8
+41::9::1::0::1::9
+41::10::1::0::1::10
+41::11::1::0::1::11
+41::32::1::6::1::9
+41::33::1::6::1::10
+41::34::1::6::1::11
+41::35::1::6::1::12
+@
+#Item data goes here.
+40::6::0::9
+40::13::4::10
+12::34::4::11
+@
+~ 3 f
+~ 3 m

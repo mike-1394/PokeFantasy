@@ -1,0 +1,81 @@
+Hi! I'm a generic NPCPerson! That's the name of my class.
+You can interact with us using the space bar!
+Wait? How are the laws of nature affected by buttons?
+What's wrong with me?
+Boo.
+I am a mummy.
+All I do is wander around.
+My AI is governed by pseudo-randomness!
+Did you know we're technically existing in a 1D world?
+This 2D world is actually based of a 1D data structure!
+My interests include hockey, tuna fishing, and talking!
+I love wearing suspenders.
+Why do we all look the same?
+Our image file is named Terry, but Tim thinks we look like him.
+Why don't you look like us?
+My code prevents me from leaving this worldspace.
+I can't even stand on transport cells.
+Don't forget! Inductors are big and scary!
+Zener Zappin'!
+CS and his MRI M... CS, if you know what I mean...
+Free MRI's from Saltcasa's Hospital-in-a-Box!
+Boolean functions and boolean functions...
+I am not error.
+Why does sound not exist in this universe?
+These text boxes are not yet capable of word-wrapping.
+There is currently no code preventing duplicate NPC names.
+What should I feed my son? Lipids or nucleic acids?
+Paint a picture of a monkey!
+Where is my house? I'm lost!
+Where do randomly-generated beings come from?
+Imagine if we were all given purpose...
+Walk left. Now walk right. Where am I even going?
+This program still needs code reorganization.
+Currently, the Universe class invokes everything else.
+You can repopulate the world with the R key.
+If you repopulate the world, we all get garbage-collected!
+The laws of our AI require us to not cause memory leaks...
+What are those strange floating numbers and letters?
+If we're not within your view range, we disappear!
+The game engine doesn't draw anything outside of your area.
+You don't comment your code enough. Dishonor.
+You don't really follow a set coding convention. Bad.
+Where are we?
+Who are you?
+Did you know you can change your identity?
+If you changed to look like us, we wouldn't notice.
+We only see that the cell next to us is occupied by you.
+You probably can't see the console output.
+I went to the ELab, but nobody was there.
+Do you understand what j is? It is not on this axis.
+Ni hao! Ce suo du le.
+Did you know you can make your own areas?
+You can change the textures of anything you want in imgs.
+Shortest path algorithms will be diagonal? That's weird.
+Perhaps certain cells will have a path value...
+I forget how to sort LinkedLists...
+CellGrid generation has been standardized to 1 text file.
+How shall I go about creating my own filetype?
+Should there be a level editor program or mode?
+When will the world get a new mode?
+When will I be able to fight you?
+Should music be MIDI-based? ogg? MP3? WAV?
+Why is the programmer talking through us?
+We are a collective through the NPCManager class.
+Theoretically, we NPCs all share a brain.
+The Universe orders us around.
+Technically we're copyrighted, but this is just for fun.
+There's a slight lag after moving the player. Fix it.
+Motion smoothing is necessary. Time-animation redundancy.
+Use of the default package is not recommended.
+You can edit what we say: TutorialSpeech.txt in strings.
+See as the boo wave passes through the boo-pass filter...
+We're not persistant NPCs, so don't get too attached.
+I'm sorry, I can't be your best friend :'( .
+Interaction code is being migrated and re-written.
+There needs to be a way to pause the universe...
+Perhaps testing pause menu stuff will add options.
+In the future, you may have some control over our AI.
+A quest system is currently in the works.
+01000010010011110100111100100001
+This is the last line of the text file.

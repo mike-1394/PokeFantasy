@@ -1,0 +1,37 @@
+#Made with Jill Game WorldMaker (TM)!
+#0=IV
+#Flags:Modified?Interior?
+012
+@
+0000000000000000000
+0ttttttttttttttttt0
+0ttttttttttttttttt0
+0ttttttttttttttttt0
+0ttttttttttttttttt0
+0ttttttttttttttttt0
+0ttttttttttttttttt0
+0ttttttffffftttttt0
+0ttttttffffftttttt0
+0ttttttffrfftttttt0
+0ttttttffffftttttt0
+0ttttttffffftttttt0
+0ttttttttttttttttt0
+0ttttttttttttttttt0
+0ttttttttttttttttt0
+0ttttttttttttttttt0
+0ttttttttttttttttt0
+0ttttttttttttttttt0
+00000000ttt00000000
+00000000ttt00000000
+00000000ttt00000000
+000000000t000000000
+@
+@
+9::21::2::3::24::16
+9::9::4::2::11::2
+@
+1::1::1::2
+17::1::1::3
+@
+#NPC data goes here.
+p 1

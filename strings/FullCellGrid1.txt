@@ -1,0 +1,68 @@
+#Initialize
+#0=IV
+#Flag: Modified? 0=false, 1=true
+00
+@
+#Map
+GGGGGGGGGGGGGGGGGGGBBBBBBssBBBBBBGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGBssssssssssssBGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGBssssssssssssBGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGBBBBBBBBBssssswwsssssBGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGBgggggggBssssswwsssssBGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGBgggggggBssssswwsssssBGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGBgggggggBssssswwsssssBGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGBggggggggggggtwwtggggBGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGBggggggggggggtwwtggggBGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGBBBBBBBBBggggggggggggtwwtggggBBBBBBBBBBBBBBBBBBBBBBBBGGG
+GGGBggggggggggggggggggggtwwtgggggggggggggggggggggGGDGGgBGGG
+GGGBggggggggggggggggggggtwwtgggggggggggggggggggggggggggBGGG
+BBBBtttttttttttttttttttttwwtttttttttttttttttttttgggggggBGGG
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwtgggggggBGGG
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwtgggggggBGGG
+BBBBttttttttttttttttwwtttttttttttttttttttttttwwtgggggggBGGG
+GGGBgggggggggggggggtwwtgggggggggggggggggggggtwwtgggggggBGGG
+GGGBgggggggggggggggtwwtggggggggPPggPPgggggggtwwtgggggggBGGG
+GGGBBBBBBBBBBBBBBBgtwwtggggggggPggggPgggggggtwwtggBBBBBBGGG
+GGGGGGGGGGGGGGGGGBgtwwtggggggggPggggPgggggggtwwtggBGGGGGGGG
+GGGGGGGGGGGGGGGGGBgtwwtggggggggPggggPgggggggtwwtggBGGGGGGGG
+GGGGGGGGGGGGGGGGGBgtwwtggggggggPggggPgggggggtwwtggBGGGGGGGG
+GGGGGGGGGGGGGGGGGBgtwwtggggggggPggggPgggggggtwwtggBGGGGGGGG
+GGGGGGGGGGGGGGGGGBgtwwtggggggggPPggPPgggggggtwwtggBGGGGGGGG
+GGGGGGGGGGGGGGGGGBgtwwtgggggggggggggggggggggtwwtggBGGGGGGGG
+GGGGGGGGGGGGGGGGGBgtwwtttttttttttttttttttttttwwtggBGGGGGGGG
+GGGGGGGGGGGGGGGGGBgtwwwwwwwwwwwwwwwwwwwwwwwwwwwtggBGGGGGGGG
+GGGGGGGGGGGGGGGGGBgtwwwwwwwwwwwwwwwwwwwwwwwwwwwtggBGGGGGGGG
+GGGGGGGGGGGGGGGGGBgtttttttttttttttttttttttttttttggBGGGGGGGG
+GGGGGGGGGGGGGGGGGBggggggggggggggggggggggggggggggggBGGGGGGGG
+GGGGGGGGGGGGGGGGGBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+@
+#Props
+24::6::0::Danger! Desert Ahead!
+27::6::0::^ To Ancient Egypt ^
+7::11::0::Welcome to Area 1! You came from Area 0!
+24::17::2
+42::17::2
+27::20::0::The Bootanical Gardens. Yes. Bootanical.
+24::23::2
+42::23::2
+53::10::1::gbb
+54::10::0::This is the house of... someone.
+@
+#Transportation
+#X::Y::TYPE::CellGrid.Destination::DestX::DestY
+25::0::0::3::23::29
+26::0::0::3::24::29
+0::13::3::0::53::9
+0::14::3::0::53::10
+@
+#Items
+51::11::4::4
+39::20::2::5
+49::29::5::7
+@
+#NPC Generation
+~ 6 f
+~ 6 m

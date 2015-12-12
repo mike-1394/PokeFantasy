@@ -1,0 +1,8 @@
+0::Mummy Linens::A pile of wet, sticky linens commonly used in mummy wrapping.::Null
+1::Canopic Jar::An ornate jar made in the likeness of a cat. Contains organs.::Null
+2::Hardware Homework::A completed homework assignment from ECE232.::BenAway
+3::Mummincummin's Key::The key to the tomb of the great King Mummincummin!::key0
+4::Lip Hypo::A hypodermic needle used for injecting stuff into lips.::m+10
+5::Lotion::A bottle of lotion. Keeps skin hydrated.::h+10
+6::Transport Center Key::The key to the transport center.::key1
+7::HM01::A device that allows you to cut certain trees::HM01

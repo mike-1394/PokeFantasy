@@ -1,0 +1,54 @@
+#Initialize
+#Map is extremely sensitive at the moment.
+#No useless chars between @'s in the map section
+#0=IV
+#Flag: Modified? 0=false, 1=true
+00
+@
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SSTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTsssssssssssssssssTTTTTTTTTssssssssssssssssssTSS
+SSTsssssssssssssssssTTTTTTTTTssssssssssssssssssTSS
+SSTsssssssssssssssssTTTTTTTTTssssssssssssssssssTSS
+SSTsssssssssssssssssTTTTTTTTTssssssssssssssssssTSS
+SSTsssssssssssssssssTTTTTTTTTssssssssssssssssssTSS
+SSTsssssssssssssssssTTTTTTTTTssssssssssssssssssTSS
+SSTsssssssssssssssssTTTTTTTTTssssssssssssssssssTSS
+SSTsssssssssssssssssTTTTTTTTTssssssssssssssssssTSS
+SSTsssssssssssssssssTTTTTTTTTssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTssssssssssssssssssssssssssssssssssssssssssssTSS
+SSTTTTTTTTTTTTTTTTTTTTTssTTTTTTTTTTTTTTTTTTTTTTTSS
+SSSSSSSSSSSSSSSSSSSSSSTssTSSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSSSTssTSSSSSSSSSSSSSSSSSSSSSSSS
+@
+#Props
+28::15::1::p
+@
+#Transportation
+24::15::6::4::9::20::key0
+23::30::2::1::25::1
+24::30::2::1::26::1
+@
+#Items
+42::5::3::6
+@
+#NPCs
+%
+~ 1 m
+~ 2 f
