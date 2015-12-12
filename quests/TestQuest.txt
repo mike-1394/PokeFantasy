@@ -1,0 +1,16 @@
+#This is a test Quest file
+Quest of Test
+#Mode 0, iterate to 1
+@
+#I guess now we go to quest steps... How to do this...
+#Name::Description::Type::TypeData
+#Type: 0=Find item, 1=goto place, 2=talk to NPC
+#TypeData: 0:ItemID (Quantity?), 1:CellGridID, 2: NPCname? persistantGUID?
+#Need to trigger quest data to NPC then.
+Find a Key!::Find the key to the transport center.::0::6
+Go to a Place!::Enter the transport center.::1::2
+Talk to Someone!::Interact with any NPC.::2::-1
+@
+#Um... I guess NPC lines?
+#StepNumber(0+)::Text::confirmation?
+2::Good job interacting with me!::

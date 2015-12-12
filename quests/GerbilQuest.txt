@@ -1,0 +1,20 @@
+#This is a Quest File
+Gerbil's Chore
+@
+#I guess now we go to quest steps... How to do this...
+#Name::Description::Type::TypeData
+#Type: 0=Find item, 1=goto place, 2=talk to NPC
+#TypeData: 0:ItemID (Quantity?), 1:CellGridID, 2:persistantNPCID
+#Need to trigger quest data to NPC then.
+Can I have a coke?::Get Gerbil a coke because she's depressed.::0::???
+Coke for Gerbil!::Bring Gerbil the coke.::2::1
+@
+#Um... I guess NPC lines?
+#StepNumber(0+)::Text::confirmation?
+#Try -1 for trigger point?
+-1::I'm depressed. Can I have a coke?::
+0::I'm so miserable. I need a coke!::
+1::Thanks for the coke! Here's a Choco Pie.::
+@
+#Items
+#StepNumber(0+)::Item.type
